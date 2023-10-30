@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muzamil-javeed
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ... web development and designing
+- 🌱 I’m currently learning ... web development
 - 
 
 <!---
